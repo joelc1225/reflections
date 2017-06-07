@@ -1,0 +1,6 @@
+
+	What happens when you initialize a repository? Why do you need to do it?
+		you are then able to use git's tools on the repo. Once you start
+		tracking file changes and commits
+
+	
