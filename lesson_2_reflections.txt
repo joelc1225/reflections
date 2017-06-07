@@ -3,4 +3,18 @@
 		you are then able to use git's tools on the repo. Once you start
 		tracking file changes and commits
 
+	How is the staging area different from the working directory and the repository? What value do you think it offers?
+		staging area shows what files are ready to be committed into the
+		log history. it allows you to view what changes are about to be made, in case you wanna change anything
+
+	How can you use the staging area to make sure you have one commit per logical change?
+		once a logical change is done, add it to the staging area, then 
+		use the git commit command to add the commit to the repo and log
+
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+		branches help when a developer wants to experiment with the code
+		base, but doesnt want to alter the original project. So there
+		will always be a working original app. a few example reasons are:
+		adding a language, adding a complicated feature, etc.
+
 	
