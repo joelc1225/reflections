@@ -17,4 +17,7 @@
 		will always be a working original app. a few example reasons are:
 		adding a language, adding a complicated feature, etc.
 
-	
+	How do the diagrams help you visualize the branch structure?
+		there can be MANY commits and branches in a project, so it can
+		be difficult to remember what commits and branches are linked
+		together. it helps to figure out where you need to go or want to go in order to fix or update something in your code
